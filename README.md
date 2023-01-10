@@ -3,4 +3,4 @@ Fivem server zombies framework
 Check Wiki for more info 
 
 
-Made by Antonio
+Made by AEB Trading 
